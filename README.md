@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Freelancer Jekyll theme  
 =========================
 
@@ -31,6 +32,9 @@ View this jekyll theme in action [here](https://jeromelachaud.com/freelancer-the
 
 ---------
 For more details, read the [documentation](http://jekyllrb.com/)
+=======
+# portfolio
+>>>>>>> 5ffb9c78655c85ddb961856e61ac63fc9895c7ea
 =======
 # portfolio
 >>>>>>> 5ffb9c78655c85ddb961856e61ac63fc9895c7ea
