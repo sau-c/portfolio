@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 5
+date: 2014-07-14
+img: 2.png
+alt: image-alt
+project-date: Septiembre 2023
+client: Escuela
+category: Dispositivos programables
+description: Uso de la tarjeta de desarrollo STM32F4446RE se utiliza del MCO y el PLL para poder sacar frecuencias mas altas que las del reloj interno (16 MHz).
+---

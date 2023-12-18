@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 7
+date: 2023-07-18
+img: 8.png
+alt: image-alt
+project-date: Septiembre 2023
+client: Escuela
+category: Electronica
+description: Se realizo un seguidor de linea
+---

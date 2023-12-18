@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2023-07-15
+img: 1.png
+alt: image-alt
+project-date: Septiembre 2023
+client: Escuela
+category: Dispositivos programables
+description: Uso de la tarjeta de desarrollo STM32F4446RE se utiliza sus pines GPIO para controlar LED'S
+---

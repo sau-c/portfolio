@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 6
+date: 2014-07-18
+img: 6.png
+alt: image-alt
+project-date: Septiembre 2023
+client: Escuela
+category: Dispositivos programables
+description: Uso de la tarjeta de desarrollo STM32F4446RE se utiliza sus funciones con ayuda de STM32CubeIDE, para controlar una pantalla TFT
+---

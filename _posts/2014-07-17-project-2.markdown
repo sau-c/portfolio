@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: 5.png
+alt: image-alt
+project-date: Septiembre 2023
+client: Escuela
+category: Dispositivos programables
+description: Uso de la tarjeta de desarrollo STM32F4446RE se utiliza para analizar la señal del generador en el dominio de la frecuencia.
+---

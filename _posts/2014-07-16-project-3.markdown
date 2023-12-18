@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: 4.png
+alt: image-alt
+project-date: Septiembre 2023
+client: Escuela
+category: Dispositivos programables
+description: Esta es un generador de funciones hecho con un circuito sujetaor de voltaje y un cable auxiliar jack de un celular, la onda es generada por el audio de una aplicacion que genera audio de frecuencias determindas.
+---
