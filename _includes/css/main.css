@@ -84,6 +84,10 @@ header {
     text-align: center;
     color: #fff;
     background: #{{ site.color.primary }};
+    background-image: url('img/portfolio/1.png'); /* Ruta de la imagen */
+    background-size: cover; /* Ajusta la imagen para cubrir todo el fondo */
+    background-position: center; /* Centra la imagen en el fondo */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
 }
 
 header .container {
